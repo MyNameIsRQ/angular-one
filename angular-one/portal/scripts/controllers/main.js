@@ -1,3 +1,1 @@
-/**
- * Created by Administrator on 2016/02/15.
- */
+angular.module("portal").controller("main",[]);
